@@ -1,5 +1,10 @@
 # FinityOne Full Stack Interview Take-Home Project
 This is the last step project for the interview of an internship position at FinityOne.
+To begin, please clone this repository to your local machine.
+
+As for the needed tools, you will need the following installed:
+1. Git
+2. Node.js
 
 # Introduction
 
