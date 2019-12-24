@@ -23,16 +23,16 @@ The objective of the html/css page is to deliver some key information about a ne
 3. You may ONLY use these 2 files to write code. Any other files created will be ignored.
 4. You are welcome to use Bootstrap ONLY (which has already been imported) in the html page
 5. The length of the webpage should be no more than a single height of the screen. In other words, do not have a scroll for the page to view more content. Everything should be viewable as soon as I land on the web page.
-6. Content should include the following:
-&nbsp;- Empowering People to Understand and Advance Their Financial Situation
-&nbsp;- Splitting Bills on group trips
-&nbsp;- Making money management simple, intuitive, and seamless
-&nbsp;- Early Access pricing $10 for early sign up access for 2 years (normally $10/month)
-&nbsp;- The form should include the following:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Name (first & last)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Email (REQUIRED)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Number of Trips/Yr (the number of trips they go on per year)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Next Trip Location (which country are they planning on visiting next)
+6. Content should include the following:<br />
+&nbsp;- Empowering People to Understand and Advance Their Financial Situation<br />
+&nbsp;- Splitting Bills on group trips<br />
+&nbsp;- Making money management simple, intuitive, and seamless<br />
+&nbsp;- Early Access pricing $10 for early sign up access for 2 years (normally $10/month)<br />
+&nbsp;- The form should include the following:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Name (first & last)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Email (REQUIRED)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Number of Trips/Yr (the number of trips they go on per year)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Next Trip Location (which country are they planning on visiting next)<br />
 
 Here are some inspirations to follow to guide your webpage:
 * https://i.pinimg.com/originals/0a/50/84/0a508468b00b19f9ad4fd4aa1a3af7e8.gif
