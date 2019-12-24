@@ -68,11 +68,11 @@ Note: You must run both at the same time to ensure the css is compiled along wit
 The backend aspect of this project has to deal with the form data that needs to be stored, updated, and retrieved from a database.
 
 1. You will code all your code within the following folder **/FO-fullstack-interview-project/server/**
-2. Write the following code steps in the following file **/Users/radharani/hustle/FinityOne/hr/interviews/FO-fullstack-interview-project/server/api/launchFlow/index.js**
-&nbsp;- Step #1 : Write the code to take the form fields and return them exactly how they were received back as a response. Send the appropriate success/fail response.
-&nbsp;- Step #2 : Write the code to take the form fields and store it into a MySQL database. Send the appropriate success/fail response. Note: You DO NOT need to setup a database. Assume the database is setup already.
-&nbsp;- Step #3 : Write the code to update a form field given the database ID. Send the appropriate success/fail response.
-&nbsp;- Step #4 : Write the code to get all entries of forms in the database. Send the appropriate success/fail response.
+2. Write the following code steps in the following file **/Users/radharani/hustle/FinityOne/hr/interviews/FO-fullstack-interview-project/server/api/launchFlow/index.js**<br />
+&nbsp;- Step #1 : Write the code to take the form fields and return them exactly how they were received back as a response. Send the appropriate success/fail response.<br />
+&nbsp;- Step #2 : Write the code to take the form fields and store it into a MySQL database. Send the appropriate success/fail response. Note: You DO NOT need to setup a database. Assume the database is setup already.<br />
+&nbsp;- Step #3 : Write the code to update a form field given the database ID. Send the appropriate success/fail response.<br />
+&nbsp;- Step #4 : Write the code to get all entries of forms in the database. Send the appropriate success/fail response.<br />
 
 
 Now, in order to run and test your code, run the following:
@@ -84,7 +84,7 @@ $ npm start
 ```
 
 ## STAGE #4
-FILE TO MODIFY: **/documentation/synopsis.txt**
+FILE TO MODIFY: **/FO-fullstack-interview-project/documentation/synopsis.txt**
 
 Write a few sentences to address the following points: (NO CODE NEEDED)
   1) What was the hardest part of the project?
