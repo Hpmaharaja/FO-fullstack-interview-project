@@ -1,0 +1,4 @@
+{
+  "AUTH_URL" : "http://customerbackend.truesolution.co/auth",
+  "API_URL" : "http://customerbackend.truesolution.co/api"
+}

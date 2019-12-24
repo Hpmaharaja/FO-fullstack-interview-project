@@ -1,0 +1,12 @@
+/* *********************************************
+// Main Style Sheet
+// Description: This style sheet is meant for styling
+//              the main website for the new product launch.
+// Additional Notes: Please write any styles you may need
+                      outside of Bootstrap here
+************************************************ */
+
+html, body {
+  width: 100%;
+  height: 100%;
+}

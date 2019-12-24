@@ -1,0 +1,9 @@
+// This file is for the last stage of the assignment:
+
+// 1. What was the hardest part of the project?
+
+> WRITE YOUR ANSWER HERE
+
+// 2. If you could make it better than you have made with more time, what would you improve?
+
+> WRITE YOUR ANSWER HERE
